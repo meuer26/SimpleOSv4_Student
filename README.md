@@ -2,7 +2,7 @@
 
 Dan O'Malley
 
-A deprecated 32-bit x86 OS used to teach basic operating system concepts. It is no longer being updated. ikanOS is the successor.
+A deprecated 32-bit x86 OS used to teach basic operating system concepts. It is no longer being updated. [ikanOS](https://github.com/meuer26/ikanOSv5_Student) is the successor.
 
 
 ## License
